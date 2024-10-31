@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain_community
+torch
+transformers==4.31
+ctransformers
+sentence_transformers
+faiss_cpu
+safetensors
+pandas
+llama-cpp-python
+fastapi uvicorn[standard]
